@@ -7,7 +7,7 @@ O projeto avalia em simultâneo a temperatura, a humidade e a luminosidade. O di
 Como diferenciais técnicos, o sistema garante que, ao atingir um limite crítico, o alerta visual e sonoro ocorre no exato milissegundo em que a informação correspondente aparece no ecrã, prevenindo confusões ou falsos alarmes. A gravação de logs utiliza um mecanismo circular: quando a memória atinge a capacidade máxima, o sistema retorna ao início de forma segura e sobrescreve os registos mais antigos, tudo isto sem travar ou corromper a execução do Arduino.
 
 Criadores do projeto:
-Caio Medeiros /
+Caio Medeiros Machado /
 Arthur Deocleciano de Araujo /
 Guilherme Stock de Carvalho / 
 Anauã Paulo Campolina Vieitas Lima /
