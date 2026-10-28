@@ -1,4 +1,4 @@
-# vinheria-agenello
+# vinheria-agnello
 
 Este projeto consiste num sistema de automação e monitorização inteligente para adegas de vinho, desenvolvido com um Arduino Uno como controlador central. O sistema recolhe dados digitais do sensor de temperatura e humidade DHT e dados analógicos do sensor de luminosidade, estabelecendo comunicação com o display LCD e o módulo de relógio RTC através de I2C. O sistema executa uma análise inicial durante 10 segundos antes de iniciar o ciclo contínuo de funcionamento.
 
